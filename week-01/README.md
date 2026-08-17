@@ -1,4 +1,4 @@
-# Week 01 — What makes these sites different?
+# Week 01 — What makes these sites different
 
 ## The idea
 
@@ -23,4 +23,5 @@ The biggest lesson this week was that a good product isn't defined only by the t
 
 The architecture should support what the user actually needs: less administrative work, fewer intermediaries, and more control for the business owner.
 
-No source code is included this week because the client repository remains private.
+No source code this week — the demo is the artifact. 
+The client implementation remains private pending owner approval.
