@@ -1,0 +1,21 @@
+/* theme.css — rebrand by swapping tokens, never touching markup */
+/* New client = change the values below. Structure stays the same. */
+
+:root {
+  --color-bg: #faf7f2;
+  --color-ink: #1a1a1a;
+  --color-accent: #b8860b;
+  --font-display: "Cormorant Garamond", serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+h1 {
+  font-family: var(--font-display);
+  color: var(--color-accent);
+}
