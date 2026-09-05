@@ -35,23 +35,24 @@ LinkedIn](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
 
 *New week added every Tuesday.*
 
-Jump into any week below:
+Weeks below are linked as soon as they go live. Locked weeks aren't up
+yet — check back on their date.
 
 | Week   | What it covers                                                                               |
 |--------|----------------------------------------------------------------------------------------------|
 | **01** | [What makes these sites different](./week-01/)                                               |
 | **02** | [The goal was never one website. It was a pipeline.](./week-02/)                             |
 | **03** | [The fix for my ugly emails wasn't a paid plan](./week-03/)                                  |
-| **04** | [AI gave me code that returned 400. Here's how I found the lie.](./week-04/)                 |
-| **05** | [A null error taught me how browsers actually load a page](./week-05/)                       |
-| **06** | [Why I deleted my loading spinner](./week-06/)                                               |
-| **07** | [The build script that almost ate my own source code](./week-07/)                            |
-| **08** | [I build for two countries. Hardcoding the currency symbol would've been a bug.](./week-08/) |
-| **09** | [I stopped writing docs for humans and started writing rules for my AI](./week-09/)          |
-| **10** | [Letting an AI write everything at once is how you lose control](./week-10/)                 |
-| **11** | [The cheapest architecture isn't the one with the lowest price tag](./week-11/)              |
-| **12** | [One CSS property broke my navigation three different ways](./week-12/)                      |
-| **13** | [I stopped building websites and started building a system that builds websites](./week-13/) |
+| **04** | 🔒 AI gave me code that returned 400. Here's how I found the lie. *(Sep 8)*                   |
+| **05** | 🔒 A null error taught me how browsers actually load a page *(Sep 15)*                        |
+| **06** | 🔒 Why I deleted my loading spinner *(Sep 22)*                                                |
+| **07** | 🔒 The build script that almost ate my own source code *(Sep 29)*                             |
+| **08** | 🔒 I build for two countries. Hardcoding the currency symbol would've been a bug. *(Oct 6)*   |
+| **09** | 🔒 I stopped writing docs for humans and started writing rules for my AI *(Oct 13)*           |
+| **10** | 🔒 Letting an AI write everything at once is how you lose control *(Oct 20)*                  |
+| **11** | 🔒 The cheapest architecture isn't the one with the lowest price tag *(Oct 27)*               |
+| **12** | 🔒 One CSS property broke my navigation three different ways *(Nov 3)*                        |
+| **13** | 🔒 I stopped building websites and started building a system that builds websites *(Nov 10)*  |
 
 ------------------------------------------------------------------------
 
@@ -139,8 +140,7 @@ build-in-public/
 ├── week-01/
 ├── week-02/
 ├── week-03/
-├── ...
-├── week-13/
+├── ...            (weeks 04–13 added weekly, every Tuesday)
 └── README.md
 ```
 
@@ -154,7 +154,7 @@ one progression.
 - **[Read the full series on LinkedIn
   →](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
 - **[Start with Week 01 →](./week-01/)**
-- **[Jump to Week 13 →](./week-13/)** 
+- **[See the latest available week →](./week-03/)**
 
 ------------------------------------------------------------------------
 
