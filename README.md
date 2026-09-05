@@ -13,6 +13,8 @@ foundation from scratch every time.
 Each week documents one engineering decision, problem, or lesson from
 that build.
 
+*New week added every Tuesday.*
+
 ------------------------------------------------------------------------
 
 ## 👋 Follow the build on LinkedIn
@@ -25,9 +27,13 @@ Follow the full 13-week series here:
 **[→ Follow the Build in Public series on
 LinkedIn](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
 
+*New week added every Tuesday.*
+
 ------------------------------------------------------------------------
 
 ## 🧭 Explore the 13 weeks
+
+*New week added every Tuesday.*
 
 Jump into any week below:
 
