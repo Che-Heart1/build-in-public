@@ -43,7 +43,7 @@ yet — check back on their date.
 | **01** | [What makes these sites different](./week-01/)                                               |
 | **02** | [The goal was never one website. It was a pipeline.](./week-02/)                             |
 | **03** | [The fix for my ugly emails wasn't a paid plan](./week-03/)                                  |
-| **04** | [AI gave me code that returned 400. Here's how I found the lie.] (./week-04/).               |
+| **04** | [AI gave me code that returned 400. Here's how I found the lie.](./week-04/).               |
 | **05** | 🔒 A null error taught me how browsers actually load a page *(Sep 15)*                        |
 | **06** | 🔒 Why I deleted my loading spinner *(Sep 22)*                                                |
 | **07** | 🔒 The build script that almost ate my own source code *(Sep 29)*                             |
