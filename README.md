@@ -41,13 +41,13 @@ yet — check back on their date.
 | Week   | What it covers                                                                               |
 |--------|----------------------------------------------------------------------------------------------|
 | **01** | [What makes these sites different](./week-01/)                                               |
-| **02** | [The goal was never one website. It was a pipeline.](./week-02/)                             |
+| **02** | [The goal was never one website. It was a pipeline](./week-02/)                             |
 | **03** | [The fix for my ugly emails wasn't a paid plan](./week-03/)                                  |
-| **04** | [AI gave me code that returned 400. Here's how I found the lie.](./week-04/)               |
+| **04** | [AI gave me code that returned 400. Here's how I found the lie](./week-04/)               |
 | **05** | [A null error taught me how browsers actually load a page](./week-05/)                     |
 | **06** | [Why I deleted my loading spinner](./week-06)                                                |
 | **07** | [The build script that almost ate my own source code](./week-07)                             |
-| **08** | 🔒 I build for two countries. Hardcoding the currency symbol would've been a bug. *(Oct 6)*   |
+| **08** | [I build for two countries. Hardcoding the currency symbol would've been a bug](./week-08)   |
 | **09** | 🔒 I stopped writing docs for humans and started writing rules for my AI *(Oct 13)*           |
 | **10** | 🔒 Letting an AI write everything at once is how you lose control *(Oct 20)*                  |
 | **11** | 🔒 The cheapest architecture isn't the one with the lowest price tag *(Oct 27)*               |
@@ -154,7 +154,7 @@ one progression.
 - **[Read the full series on LinkedIn
   →](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
 - **[Start with Week 01 →](./week-01/)**
-- **[See the latest available week →](./week-07/)**
+- **[See the latest available week →](./week-08/)**
 
 ------------------------------------------------------------------------
 
