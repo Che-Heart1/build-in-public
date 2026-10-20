@@ -49,7 +49,7 @@ yet — check back on their date.
 | **07** | [The build script that almost ate my own source code](./week-07)                             |
 | **08** | [I build for two countries. Hardcoding the currency symbol would've been a bug](./week-08)   |
 | **09** | [I stopped writing docs for humans and started writing rules for my AI](./week-09)          |
-| **10** | 🔒 Letting an AI write everything at once is how you lose control *(Oct 20)*                  |
+| **10** | [Letting an AI write everything at once is how you lose control](./week-10/)                  |
 | **11** | 🔒 The cheapest architecture isn't the one with the lowest price tag *(Oct 27)*               |
 | **12** | 🔒 One CSS property broke my navigation three different ways *(Nov 3)*                        |
 | **13** | 🔒 I stopped building websites and started building a system that builds websites *(Nov 10)*  |
@@ -154,7 +154,7 @@ one progression.
 - **[Read the full series on LinkedIn
   →](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
 - **[Start with Week 01 →](./week-01/)**
-- **[See the latest available week →](./week-09/)**
+- **[See the latest available week →](./week-10/)**
 
 ------------------------------------------------------------------------
 
