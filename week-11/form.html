@@ -1,0 +1,33 @@
+<!-- Host-native form — no API key anywhere in the markup. -->
+<!-- That's the security win: nothing sensitive ships to the browser. -->
+<!-- Spam handled by a honeypot — bots fill it, humans never see it. -->
+
+<!-- Before: third-party service required an API key in the frontend.
+     Anyone could read it in the page source.
+     Plus a monthly bill on top of hosting.
+
+     After: one decision removed the cost, the exposed key,
+     and the third-party dependency simultaneously. -->
+
+<form
+  name="reservation"
+  method="POST"
+  data-netlify="true"
+  data-netlify-honeypot="bot-field"
+>
+  <input type="hidden" name="form-name" value="reservation" />
+
+  <!-- Honeypot: hidden from real users, bots fill it automatically -->
+  <!-- Any submission with this field filled gets dropped server-side -->
+  <p hidden>
+    <label>Leave this blank: <input name="bot-field" /></label>
+  </p>
+
+  <input name="name"   placeholder="Your name"  required />
+  <input name="email"  type="email" placeholder="Email address" required />
+  <input name="guests" type="number" placeholder="Number of guests" />
+  <input name="date"   type="date" required />
+  <input name="time"   type="time" required />
+
+  <button type="submit">Request a table</button>
+</form>
