@@ -1,0 +1,43 @@
+/* sticky header — stacking context lesson */
+
+/* ❌ THE BUG
+   backdrop-filter does two things that aren't obvious from the name:
+   1. Creates a new STACKING CONTEXT — z-index now works relative to the header
+   2. Creates a new CONTAINING BLOCK — position:fixed children now anchor to the header
+
+   Result:
+   - The fixed mobile dropdown positioned against the header, not the viewport
+   - A translucent background let page content bleed through on scroll
+   - Four rounds of debugging. One root cause. */
+
+.header-broken {
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(8px);
+  background: rgba(20, 12, 10, 0.6); /* translucent → content bleeds through */
+  /* z-index not set → loses to stacking contexts created by section content */
+}
+
+
+/* ✅ THE FIX
+   Remove backdrop-filter entirely.
+   Fully opaque background — nothing shows through on scroll.
+   z-index high enough to sit above any element that creates its own stacking context
+   via transform, opacity, or filter (common in animated sections).
+
+   Codified as a permanent rule: sticky headers must always be fully opaque
+   with an explicit high z-index. Never re-learn this bug. */
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #160c0a; /* fully opaque — nothing bleeds through */
+}
+
+
+/* WHY z-index: 1000?
+   Any element with transform, opacity < 1, or filter creates a stacking context.
+   Hero sections with animations, gallery images with hover effects —
+   all of these can sit above a header with a low or unset z-index.
+   1000 clears them all without needing to audit every section. */
