@@ -52,7 +52,7 @@ yet — check back on their date.
 | **10** | [Letting an AI write everything at once is how you lose control](./week-10/)                  |
 | **11** | [The cheapest architecture isn't the one with the lowest price tag](./week-11)            |
 | **12** | [One CSS property broke my navigation three different ways](./week-12)                        |
-| **13** | 🔒 I stopped building websites and started building a system that builds websites *(Nov 10)*  |
+| **13** | [I stopped building websites and started building a system that builds websites](./week-13)
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ one progression.
 - **[Read the full series on LinkedIn
   →](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
 - **[Start with Week 01 →](./week-01/)**
-- **[See the latest available week →](./week-12/)**
+- **[See the latest available week →](./week-13/)**
 
 ------------------------------------------------------------------------
 
