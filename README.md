@@ -13,7 +13,7 @@ foundation from scratch every time.
 Each week documents one engineering decision, problem, or lesson from
 that build.
 
-*New week added every Tuesday.*
+**Series complete: all 13 weeks are live.** See the result at [laudasol.com](https://laudasol.com).
 
 ------------------------------------------------------------------------
 
@@ -22,37 +22,35 @@ that build.
 The repository shows the technical side. **LinkedIn shows the story
 behind it.**
 
-Follow the full 13-week series here:
+Read the full 13-week series, post by post:
 
-**[→ Follow the Build in Public series on
-LinkedIn](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
+**[→ Start the Build in Public series on LinkedIn](https://lnkd.in/p/dWkpe5cQ)**
 
-*New week added every Tuesday.*
+*Note: two unrelated posts (NASA Space Apps and breast cancer awareness) appear in the feed around Week 12. They aren't part of the series.*
+
+*The build series is complete. The story continues in the [Laudasol sales series on LinkedIn](https://lnkd.in/p/dC4WM7ad).*
 
 ------------------------------------------------------------------------
 
 ## 🧭 Explore the 13 weeks
 
-*New week added every Tuesday.*
+All 13 weeks are live. Start at Week 01 or jump to any week below.
 
-Weeks below are linked as soon as they go live. Locked weeks aren't up
-yet — check back on their date.
-
-| Week   | What it covers                                                                               |
-|--------|----------------------------------------------------------------------------------------------|
-| **01** | [What makes these sites different](./week-01/)                                               |
-| **02** | [The goal was never one website. It was a pipeline](./week-02/)                             |
-| **03** | [The fix for my ugly emails wasn't a paid plan](./week-03/)                                  |
-| **04** | [AI gave me code that returned 400. Here's how I found the lie](./week-04/)               |
-| **05** | [A null error taught me how browsers actually load a page](./week-05/)                     |
-| **06** | [Why I deleted my loading spinner](./week-06)                                                |
-| **07** | [The build script that almost ate my own source code](./week-07)                             |
-| **08** | [I build for two countries. Hardcoding the currency symbol would've been a bug](./week-08)   |
-| **09** | [I stopped writing docs for humans and started writing rules for my AI](./week-09)          |
-| **10** | [Letting an AI write everything at once is how you lose control](./week-10/)                  |
-| **11** | [The cheapest architecture isn't the one with the lowest price tag](./week-11)            |
-| **12** | [One CSS property broke my navigation three different ways](./week-12)                        |
-| **13** | [I stopped building websites and started building a system that builds websites](./week-13)
+| Week   | What it covers                                                                               | LinkedIn |
+|--------|----------------------------------------------------------------------------------------------|-------------|
+| **01** | [What makes these sites different](./week-01/)                                               | [Read the post →](https://lnkd.in/p/dWkpe5cQ) |
+| **02** | [The goal was never one website. It was a pipeline](./week-02/)                             | [Read the post →](https://lnkd.in/p/dBVm8ZS4) |
+| **03** | [The fix for my ugly emails wasn't a paid plan](./week-03/)                                  | [Read the post →](https://lnkd.in/p/dbiX-AWQ) |
+| **04** | [AI gave me code that returned 400. Here's how I found the lie](./week-04/)               | [Read the post →](https://lnkd.in/p/dY5gqTb8) |
+| **05** | [A null error taught me how browsers actually load a page](./week-05/)                     | [Read the post →](https://lnkd.in/p/daeDPMGv) |
+| **06** | [Why I deleted my loading spinner](./week-06/)                                                | [Read the post →](https://lnkd.in/p/dGTYvGC8) |
+| **07** | [The build script that almost ate my own source code](./week-07/)                             | [Read the post →](https://lnkd.in/p/dVRTQQ9p) |
+| **08** | [I build for two countries. Hardcoding the currency symbol would've been a bug](./week-08/)   | [Read the post →](https://lnkd.in/p/drq4Du_M) |
+| **09** | [I stopped writing docs for humans and started writing rules for my AI](./week-09/)          | [Read the post →](https://lnkd.in/p/ddzQYepC) |
+| **10** | [Letting an AI write everything at once is how you lose control](./week-10/)                  | [Read the post →](https://lnkd.in/p/djp6MUhE) |
+| **11** | [The cheapest architecture isn't the one with the lowest price tag](./week-11/)            | [Read the post →](https://lnkd.in/p/d28PmXCq) |
+| **12** | [One CSS property broke my navigation three different ways](./week-12/)                        | [Read the post →](https://lnkd.in/p/dZC72AK6) |
+| **13** | [I stopped building websites and started building a system that builds websites](./week-13/) | [Read the post →](https://lnkd.in/p/dwm2kUuD) |
 
 ------------------------------------------------------------------------
 
@@ -140,7 +138,8 @@ build-in-public/
 ├── week-01/
 ├── week-02/
 ├── week-03/
-├── ...            (weeks 04–13 added weekly, every Tuesday)
+├── ...            (weeks 04–12)
+├── week-13/
 └── README.md
 ```
 
@@ -151,10 +150,10 @@ one progression.
 
 ## 🔗 Keep exploring
 
-- **[Read the full series on LinkedIn
-  →](https://www.linkedin.com/in/iyinoluwa-nhyira-fashola-836188341)**
+- **[Start the series on LinkedIn →](https://lnkd.in/p/dWkpe5cQ)**
+- **[Read the final post →](https://lnkd.in/p/dwm2kUuD)**
 - **[Start with Week 01 →](./week-01/)**
-- **[See the latest available week →](./week-13/)**
+- **[Jump to the final week →](./week-13/)**
 
 ------------------------------------------------------------------------
 
